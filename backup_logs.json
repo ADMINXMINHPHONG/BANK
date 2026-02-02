@@ -1,5 +1,12 @@
 [
   {
+    "id": "63b7bb9a-d1f7-4dc5-83b7-00586bbf964f",
+    "timestamp": "2026-02-02 15:11:02",
+    "type": "freefiremax",
+    "filename": "backups\/backup_freefiremax_20260202_151102.json",
+    "note": "1"
+  },
+  {
     "id": "86cc7afc-8a14-4691-aa79-8fb749110514",
     "timestamp": "2026-02-02 15:10:58",
     "type": "freefireth",
