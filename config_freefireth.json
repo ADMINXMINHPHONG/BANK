@@ -1,0 +1,690 @@
+{
+  "homeMenu": [
+    {
+      "id": "skin_gun",
+      "icon": "🔫",
+      "title": "SKIN SÚNG",
+      "subtitle": "Các skin súng cực đẹp",
+      "isVip": false
+    },
+    {
+      "id": "skin_char",
+      "icon": "👨",
+      "title": "SKIN NHÂN VẬT",
+      "subtitle": "Trang phục nhân vật thời thượng",
+      "isVip": false
+    },
+    {
+      "id": "pack_mod",
+      "icon": "🎒",
+      "title": "PACK MOD",
+      "subtitle": "Combo nhiều mod trong 1 pack",
+      "isVip": true
+    },
+    {
+      "id": "update1_char_nam",
+      "icon": "👨",
+      "title": "MOD LẺ",
+      "subtitle": "Bộ sưu tập mod phiên bản 1",
+      "isVip": false
+    },
+    {
+      "id": "update_2_vesion",
+      "icon": "📦",
+      "title": "UPDATE on",
+      "subtitle": "",
+      "isVip": false
+    }
+  ],
+  "categories": {
+    "skin_gun": {
+      "useFilter": true,
+      "template": "tpl-landscape",
+      "tabs": [
+        {
+          "id": "smg",
+          "name": "TIỂU LIÊN"
+        },
+        {
+          "id": "ar",
+          "name": "SÚNG TRƯỜNG"
+        },
+        {
+          "id": "sr",
+          "name": "SÚNG TỈA"
+        },
+        {
+          "id": "sg",
+          "name": "SHOTGUN"
+        }
+      ],
+      "items": {
+        "smg": [
+          {
+            "id": "ff_mp5_001",
+            "name": "MP5 THỎ 7 MÀU",
+            "group": "MP5",
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=19aXAjjUdzlYvzoZp4z8_5XDQ_rJGZ1GX",
+            "img": "https://sf-static.upanhlaylink.com/img/image_20251229103950cc8fd5f899264a76f4b9a1b0b9.jpg",
+            "img2": "https://sf-static.upanhlaylink.com/img/image_20251229103950cc8fd5f899264a76f4b9a1b0b9.jpg",
+            "img1": "https://sf-static.upanhlaylink.com/img/image_20251229b1f8f4090145364a01b50a7d51547e7e.jpg"
+          },
+          {
+            "id": "ff_mp5_002",
+            "name": "MP5 - thiên thần bạch kim",
+            "group": "MP5",
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1PCDE7gbOqdfKRz5u1RTzrx7qivxipUE3",
+            "img": "https://sf-static.upanhlaylink.com/img/image_20260102923025e7fc0771e365a845505068cc26.jpg",
+            "img2": "https://sf-static.upanhlaylink.com/img/image_20260102923025e7fc0771e365a845505068cc26.jpg",
+            "img1": "https://sf-static.upanhlaylink.com/img/image_202601025e40af44062c283373117b6fd49e98af.jpg"
+          },
+          {
+            "id": "ff_mp40_bunny",
+            "name": "MP40 UCHIHA",
+            "group": "MP40",
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1bX5lQLMgWUeqsUs9Ns-XhfCJYzjyHF3O",
+            "img": "https://sf-static.upanhlaylink.com/img/image_20251229ab3a85953d8227e4c6daed64ccee2440.jpg",
+            "img2": "https://sf-static.upanhlaylink.com/img/image_20251229ab3a85953d8227e4c6daed64ccee2440.jpg",
+            "img1": "https://sf-static.upanhlaylink.com/img/image_20251229a9de408d623f79a54644f50056ae1767.jpg"
+          },
+          {
+            "id": "ff_mp40_bunny_old1",
+            "name": "MP40 UCHIHA (OLD)",
+            "group": "MP40",
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1mLrIp1hSV-ZtOudspIuI84wko1K14jG-",
+            "img": "https://sf-static.upanhlaylink.com/img/image_20251229ab3a85953d8227e4c6daed64ccee2440.jpg",
+            "img2": "https://sf-static.upanhlaylink.com/img/image_20251229ab3a85953d8227e4c6daed64ccee2440.jpg",
+            "img1": "https://sf-static.upanhlaylink.com/img/image_20251229a9de408d623f79a54644f50056ae1767.jpg"
+          }
+        ],
+        "ar": [
+          {
+            "id": "ff_m4a1_galaxy",
+            "name": "M4A1 Galaxy",
+            "group": "M4A1",
+            "downloadUrl": "https://example.com/downloads/ff_m4a1_galaxy.zip",
+            "img": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/m4a1_galaxy.png"
+          },
+          {
+            "id": "ff_ak47_001",
+            "name": "AK47 - Rồng Xanh",
+            "group": "AK47",
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=116IKVV0HcOS0E9qUgmIPLUjnpGK4XRFb",
+            "img": "https://sf-static.upanhlaylink.com/img/image_2025122770677ea0b6e8e6193adc672b5389720e.jpg",
+            "img2": "https://sf-static.upanhlaylink.com/img/image_2025122770677ea0b6e8e6193adc672b5389720e.jpg",
+            "img1": "https://sf-static.upanhlaylink.com/img/image_202512270e7884086b4a23a13495fc3a27d49b25.jpg"
+          },
+          {
+            "id": "ff_scar_titan",
+            "name": "SCAR Titan",
+            "group": "SCAR",
+            "downloadUrl": "https://example.com/downloads/ff_scar_titan.zip",
+            "img": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/scar_titan.png"
+          },
+          {
+            "id": "ff_an94_001",
+            "name": "AN94 - V001",
+            "group": "AN94",
+            "downloadUrl": "h",
+            "img": "https://official.garena.com/vn/v1/config/banner_ff_mb.jpg",
+            "img2": "https://official.garena.com/vn/v1/config/banner_ff_mb.jpg",
+            "img1": "https://official.garena.com/vn/v1/config/banner_ff_mb.jpg"
+          }
+        ],
+        "sr": [
+          {
+            "id": "ff_awm_winter",
+            "name": "AWM GẤU GẮT GỎNG",
+            "group": "AWM",
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1iBFc2Ssl-Jh66Bw2sXgpjRoYomg1CMGw",
+            "img": "https://sf-static.upanhlaylink.com/img/image_202512291eb67df2cf2cc6bff716adcf0eba7b63.jpg",
+            "img2": "https://sf-static.upanhlaylink.com/img/image_202512291eb67df2cf2cc6bff716adcf0eba7b63.jpg",
+            "img1": "https://sf-static.upanhlaylink.com/img/image_202512296810d949f35794471baf4784e767bd8f.jpg"
+          },
+          {
+            "id": "ff_awm_002",
+            "name": "AWM - MA ẢNH CỰC QUANG",
+            "group": "AWM",
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1_RU7LwD3a0uRs3aPh8_Ra_qIZkMDt791",
+            "img": "https://sf-static.upanhlaylink.com/img/image_202512291a0c3f125658a260c817cd89f9f0e13e.jpg",
+            "img2": "https://sf-static.upanhlaylink.com/img/image_202512291a0c3f125658a260c817cd89f9f0e13e.jpg",
+            "img1": "https://sf-static.upanhlaylink.com/img/image_202512297ef465503e1eea1213049c7f0671a2c4.jpg"
+          },
+          {
+            "id": "ff_awm_003",
+            "name": "AWM KÌ NHÔNG LỬA",
+            "group": "AWM",
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1IIBmUPcCPTwwYRrhzdnF5n2z7UKWf2NB",
+            "img": "https://sf-static.upanhlaylink.com/img/image_20251229c6f9213962db1f8193a7effc72473317.jpg",
+            "img2": "https://sf-static.upanhlaylink.com/img/image_20251229c6f9213962db1f8193a7effc72473317.jpg",
+            "img1": "https://sf-static.upanhlaylink.com/img/image_2025122928a12ba1fd82a5b85844c09226c305bb.jpg"
+          },
+          {
+            "id": "ff_awm_004",
+            "name": "AWM MA ẢNH CỰC QUANG",
+            "group": "AWM",
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1vsmfEGze32hExxtUXrSNc9fYKZT4LFMB",
+            "img": "https://sf-static.upanhlaylink.com/img/image_2025122959c49c88e6d9951fab0d40ffbacd16d4.jpg",
+            "img2": "https://sf-static.upanhlaylink.com/img/image_2025122959c49c88e6d9951fab0d40ffbacd16d4.jpg",
+            "img1": "https://sf-static.upanhlaylink.com/img/image_2025122928a12ba1fd82a5b85844c09226c305bb.jpg"
+          }
+        ],
+        "sg": [
+          {
+            "id": "ff_m1014_phantom",
+            "name": "M1014 Phantom",
+            "group": "M1014",
+            "downloadUrl": "https://example.com/downloads/ff_m1014_phantom.zip",
+            "img": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/m1014_phantom.png"
+          },
+          {
+            "id": "ff_m1014_gold",
+            "name": "M590 DIAMOND",
+            "group": "M1014",
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1B6_HVJyl2QykLVhENK_F0i4jWkTibtEB",
+            "img": "https://sf-static.upanhlaylink.com/img/image_20260102edb14448e6256acb49e6b12270636cb8.jpg",
+            "img2": "https://sf-static.upanhlaylink.com/img/image_20260102edb14448e6256acb49e6b12270636cb8.jpg",
+            "img1": "https://sf-static.upanhlaylink.com/img/image_20260102bbcff93a458b0d8de600c1eb3e2f15c8.jpg"
+          },
+          {
+            "id": "ff_m1887_001",
+            "name": "M1887 - Hoạ Nộ",
+            "group": "M1887",
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1tXrC8WX_XJRoMEdBIN7ZEGJgjV1HrI3B",
+            "img": "https://sf-static.upanhlaylink.com/img/image_20251226b366736902b772876d954f2233168d16.jpg",
+            "img2": "https://sf-static.upanhlaylink.com/img/image_20251226b366736902b772876d954f2233168d16.jpg",
+            "img1": "https://sf-static.upanhlaylink.com/img/image_2025122684380eaeb4f96c617150ed5b47fec24e.jpg"
+          },
+          {
+            "id": "ff_m1887_003",
+            "name": "M1887 - Vương Quốc Cát",
+            "group": "M1887",
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1H0k7m0Ix-bJ0y-QI6rVSP3KNWs9NfSEN",
+            "img": "https://sf-static.upanhlaylink.com/img/image_202512266642ed464e3afa9109a8dabb29a1b7dc.jpg",
+            "img2": "https://sf-static.upanhlaylink.com/img/image_202512266642ed464e3afa9109a8dabb29a1b7dc.jpg",
+            "img1": "https://sf-static.upanhlaylink.com/img/image_202512263d3c9b6a75d34747d8511ac82d3bbe7d.jpg"
+          },
+          {
+            "id": "ff_m1887_003",
+            "name": "M1887 - Thế Giới Ngầm",
+            "group": "M1887",
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1-mdF9HdslWmzxyH0oFSxWaz492DdCdhz",
+            "img": "https://sf-static.upanhlaylink.com/img/image_20251226c1982ecfda5e08769db9f09e7b1fe881.jpg",
+            "img2": "https://sf-static.upanhlaylink.com/img/image_20251226c1982ecfda5e08769db9f09e7b1fe881.jpg",
+            "img1": "https://sf-static.upanhlaylink.com/img/image_202512263d3c9b6a75d34747d8511ac82d3bbe7d.jpg"
+          },
+          {
+            "id": "ff_m1887_004",
+            "name": "M1887 - Hào Quang Vàng",
+            "group": "M1887",
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1trER38kMnjC-UISpGIbgVX8KihslWyEP",
+            "img": "https://sf-static.upanhlaylink.com/img/image_20251227a0cdf3aecd5d78a56ce368254676ce23.jpg",
+            "img2": "https://sf-static.upanhlaylink.com/img/image_20251227a0cdf3aecd5d78a56ce368254676ce23.jpg",
+            "img1": "https://sf-static.upanhlaylink.com/img/image_202512263d3c9b6a75d34747d8511ac82d3bbe7d.jpg"
+          },
+          {
+            "id": "ff_m1887_005",
+            "name": "M1887 - Lữ Khách",
+            "group": "M1887",
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=19EXw5GjTMKO14_jm9mrOAyV9TZ4ZBRfN",
+            "img": "https://sf-static.upanhlaylink.com/img/image_202512270e9697c9e83462e308a95e9ffe7c3f53.jpg",
+            "img2": "https://sf-static.upanhlaylink.com/img/image_202512270e9697c9e83462e308a95e9ffe7c3f53.jpg",
+            "img1": "https://sf-static.upanhlaylink.com/img/image_202512263d3c9b6a75d34747d8511ac82d3bbe7d.jpg"
+          },
+          {
+            "id": "ff_m1887_006",
+            "name": "M1887 - Tương Lai",
+            "group": "M1887",
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1W3L5e9YqRGByFDawPtMLIMUfBLHgJ6pAhttps://drive.google.com/uc?export=download&id=1W3L5e9YqRGByFDawPtMLIMUfBLHgJ6pA",
+            "img": "https://sf-static.upanhlaylink.com/img/image_2025122721606571f1f0ecc5cdbb7fdda3aceb47.jpg",
+            "img2": "https://sf-static.upanhlaylink.com/img/image_2025122721606571f1f0ecc5cdbb7fdda3aceb47.jpg",
+            "img1": "https://sf-static.upanhlaylink.com/img/image_202512263d3c9b6a75d34747d8511ac82d3bbe7d.jpg"
+          },
+          {
+            "id": "ff_m1887_007",
+            "name": "M1887 - Lục Bảo",
+            "group": "M1887",
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=18WQohAet3GZRA4KwrxX-AmVeGfLrVzMs",
+            "img": "https://sf-static.upanhlaylink.com/img/image_20251227bd435feca9fc2d785e3d9a21298faa3f.jpg",
+            "img2": "https://sf-static.upanhlaylink.com/img/image_20251227bd435feca9fc2d785e3d9a21298faa3f.jpg",
+            "img1": "https://sf-static.upanhlaylink.com/img/image_2025122684380eaeb4f96c617150ed5b47fec24e.jpg"
+          },
+          {
+            "id": "ff_m1887_003_old1",
+            "name": "M1887 - Vương Quốc Cát (OLD)",
+            "group": "M1887",
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=11xzHXgvUSI9slcQU_8qZm_wM_PEYos59",
+            "img": "https://sf-static.upanhlaylink.com/img/image_202512266642ed464e3afa9109a8dabb29a1b7dc.jpg",
+            "img2": "https://sf-static.upanhlaylink.com/img/image_202512266642ed464e3afa9109a8dabb29a1b7dc.jpg",
+            "img1": "https://sf-static.upanhlaylink.com/img/image_202512263d3c9b6a75d34747d8511ac82d3bbe7d.jpg"
+          },
+          {
+            "id": "ff_m1887_003_old2",
+            "name": "M1887 - Thế Giới Ngầm (OLD)",
+            "group": "M1887",
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1iStEJSAdQwYKBCTMtgWf0fuqzU6x0JY5",
+            "img": "https://sf-static.upanhlaylink.com/img/image_20251226c1982ecfda5e08769db9f09e7b1fe881.jpg",
+            "img2": "https://sf-static.upanhlaylink.com/img/image_20251226c1982ecfda5e08769db9f09e7b1fe881.jpg",
+            "img1": "https://sf-static.upanhlaylink.com/img/image_202512263d3c9b6a75d34747d8511ac82d3bbe7d.jpg"
+          }
+        ]
+      }
+    },
+    "skin_char": {
+      "useFilter": true,
+      "template": "tpl-portrait",
+      "tabs": [
+        {
+          "id": "nam",
+          "name": "NHÂN VẬT NAM"
+        },
+        {
+          "id": "nu",
+          "name": "NHÂN VẬT NỮ"
+        }
+      ],
+      "items": {
+        "nam": [
+          {
+            "id": "ff_maro_002",
+            "name": "MARO - V002",
+            "group": "MARO",
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=19g7XgWRvKugmpVmICye7hMCkUPL5zJkj",
+            "img": "https://sf-static.upanhlaylink.com/img/image_20251227b7fef211e4e7a17e0c6020bdccb99913.jpg"
+          },
+          {
+            "id": "ff_ignis_002",
+            "name": "IGNIS - V002( BY KENMODZ )",
+            "group": "IGNIS",
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1ycTFQ8P7MQdmJGriw6dK0XblbArs83gc",
+            "img": "https://sf-static.upanhlaylink.com/img/image_20251227ef58836da002f0692e8f610d917d3b3c.jpg"
+          },
+          {
+            "id": "ff_ignis_003",
+            "name": "IGNIS - V003",
+            "group": "IGNIS",
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1rRD-U7BQMO6JbZagY1d3Oh5mldDQWIGG",
+            "img": "https://sf-static.upanhlaylink.com/img/image_20251227dd327f4b1885cf92efb4ebda27f1264c.jpg"
+          },
+          {
+            "id": "ff_ignis_004",
+            "name": "IGNIS - V004",
+            "group": "IGNIS",
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=17aUOXQGCWTq9VS0a25WRFXImF4vn_9cg",
+            "img": "https://sf-static.upanhlaylink.com/img/image_2025122735d73f6ac554c7613294b1abda5686bd.jpg"
+          },
+          {
+            "id": "ff_ignis_005",
+            "name": "IGNIS - V005",
+            "group": "IGNIS",
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1MiPDrpenHfbnLAK8JIjyj21AaGfPOgrW",
+            "img": "https://sf-static.upanhlaylink.com/img/image_20251227b8e44817da706fad157ca1095f5d2e80.jpg"
+          },
+          {
+            "id": "ff_ignis_006",
+            "name": "IGNIS - V006",
+            "group": "IGNIS",
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=13_04aVRkGnCdP4GCOI4ZlZ1hqHrkSToc",
+            "img": "https://sf-static.upanhlaylink.com/img/image_202512271833c0f909ade83a24bcf55b67511c25.jpg"
+          },
+          {
+            "id": "ff_ignis_007",
+            "name": "IGNIS - V007",
+            "group": "IGNIS",
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1SPd4pN5-GOEoPsKUKJjdK4O2t-Z5icsO",
+            "img": "https://sf-static.upanhlaylink.com/img/image_20251227a8f4561b3917f5873cd9c05f1ff4c21a.jpg"
+          },
+          {
+            "id": "ff_ignis_008",
+            "name": "IGNIS - V008",
+            "group": "IGNIS",
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1_YLT83KHOmEFWokEr73Q2DkNvB49pv3J",
+            "img": "https://sf-static.upanhlaylink.com/img/image_202601310694f05727e03d7cf0db368d4635ca17.jpg"
+          },
+          {
+            "id": "ff_ignis_009",
+            "name": "IGNIS - V009",
+            "group": "IGNIS",
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1Xftqv-KgIinvVa5wDTRteF-syCN-lE0n",
+            "img": "https://sf-static.upanhlaylink.com/img/image_2025122838542bed5abc27f8e8c1d29316efbbe6.jpg"
+          },
+          {
+            "id": "ff_ignis_010",
+            "name": "IGNIS - V010",
+            "group": "IGNIS",
+            "downloadUrl": "https://drive.google.com/file/d/1EsuYVkohHJ7ZKuDhbjzRlWnGNzLGv3AV/view?usp=drivesdk",
+            "img": "https://sf-static.upanhlaylink.com/img/image_202601217975b917059a5c78df659766e8b71d46.jpg"
+          },
+          {
+            "id": "ff_ignis_011",
+            "name": "IGNIS - V11",
+            "group": "IGNIS",
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1sHG7rz01O08eb_1T08b941hCzLDcMVEu",
+            "img": "https://sf-static.upanhlaylink.com/img/image_20260124292fa087d122524bf85c918a6989c700.jpg"
+          },
+          {
+            "id": "ff_ignis_012",
+            "name": "IGNIS - V012",
+            "group": "IGNIS",
+            "downloadUrl": "https://drive.google.com/file/d/1sg-5ly_t5--lOkCzNwZ5yCVpGJPC_pj9/view?usp=drivesdk",
+            "img": "https://sf-static.upanhlaylink.com/img/image_202601242f24272496f8243eda77eb210bc5aa87.jpg"
+          },
+          {
+            "id": "ff_ignis_013",
+            "name": "IGNIS - V013",
+            "group": "IGNIS",
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1SG-BUE4R-xuqv2tvggGFX4TbRUYR_9Xs",
+            "img": "https://sf-static.upanhlaylink.com/img/image_2026012782b60dac39ae9f4377a466a181bdb261.jpg"
+          },
+          {
+            "id": "ff_ignis_014",
+            "name": "IGNIS - V014",
+            "group": "IGNIS",
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=15cM8qlJ1rJTdPJYR8v56oMbY402XdAdb",
+            "img": "https://sf-static.upanhlaylink.com/img/image_202601274272927f04e37f9844a596cc86558040.jpg"
+          },
+          {
+            "id": "ff_ignis_015",
+            "name": "IGNIS - V015",
+            "group": "IGNIS",
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1_NoOfzhL7RuBfDlfaKlqYKNe3LezAZPn",
+            "img": "https://sf-static.upanhlaylink.com/img/image_20260129440ef6007be7299fab62f4dda7c3a6d8.jpg"
+          },
+          {
+            "id": "ff_ignis_016",
+            "name": "IGNIS - V016",
+            "group": "IGNIS",
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1M6EeRBQOj5oLnCFj12a8hsXmewkVEP1b",
+            "img": "https://sf-static.upanhlaylink.com/img/image_20260129c9ad421442ddd8365280478e2e5f0584.jpg"
+          },
+          {
+            "id": "ff_ignis_017",
+            "name": "IGNIS - V017",
+            "group": "IGNIS",
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1lS-HCBmW2FynxA8qu5jWKY_3CumZfjnL",
+            "img": "https://sf-static.upanhlaylink.com/img/image_20260129bfe8fbb17c6bd93c7cb36a31e8d388a8.jpg"
+          },
+          {
+            "id": "ff_ignis_018",
+            "name": "IGNIS - V018",
+            "group": "IGNIS",
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1Ugy_eYCM3Ag4QkENyKuqW57cwrn79Hrk",
+            "img": "https://sf-static.upanhlaylink.com/img/image_20260129cf4381877bc37033f1b454dd2bd514d8.jpg"
+          },
+          {
+            "id": "ff_ignis_019",
+            "name": "IGNIS - V019",
+            "group": "IGNIS",
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1eKciHjugmjphM2Lbup3KS2cIzkRu2VDr",
+            "img": "https://sf-static.upanhlaylink.com/img/image_202601292d43a6d9665c05b0b9a2a725c25f59bb.jpg"
+          },
+          {
+            "id": "ff_ignis_020",
+            "name": "IGNIS - V020",
+            "group": "IGNIS",
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1gWpxViusUkXpfAwaTQR7VEFDDKK_0ELb",
+            "img": "https://sf-static.upanhlaylink.com/img/image_2026013110bf3b257ba5a78729c7f148c3921aab.jpg"
+          },
+          {
+            "id": "ff_ignis_001",
+            "name": "IGNIS - V001",
+            "group": "IGNIS",
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1e1LzW6IsWIpsNBXM80Kn8vmaJX4rbPCn",
+            "img": "https://sf-static.upanhlaylink.com/img/image_202512275f590457d0579b6291b59eab2e5739ae.jpg"
+          },
+          {
+            "id": "ff_ignis_008_old1",
+            "name": "IGNIS - V008 (OLD)",
+            "group": "IGNIS",
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1_YLT83KHOmEFWokEr73Q2DkNvB49pv3J",
+            "img": "https://sf-static.upanhlaylink.com/img/image_20251227f1ba0cfd3a5fda92c2c716d3b0b32561.jpg"
+          },
+          {
+            "id": "ff_alok_007",
+            "name": "ALOK THỨC TỈNH - V007",
+            "group": "ALOK",
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1HYX5LrEGCK1djId5ajzS5X3cypuI9p9b",
+            "img": "https://sf-static.upanhlaylink.com/img/image_20260124b84716e67242d5555ede1acc756c4f8d.jpg"
+          },
+          {
+            "id": "ff_alok_008",
+            "name": "ALOK THỨC TỈNH - V008",
+            "group": "ALOK",
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1mCoEeCsjeHfvEayDOmkzy8ifhsoINThI",
+            "img": "https://sf-static.upanhlaylink.com/img/image_20260124b4b33a38a79d605dd5184e0c97054a58.jpg"
+          },
+          {
+            "id": "ff_alok_003",
+            "name": "ALOK THỨC TỈNH - V003",
+            "group": "ALOK",
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=10NGsKGXS7RIC2pcd7h5DzLGkeeyC8p8L",
+            "img": "https://sf-static.upanhlaylink.com/img/image_20260127a915aa0d92f83c9c66b9054ebeb13e3e.jpg"
+          },
+          {
+            "id": "ff_alok_004",
+            "name": "ALOK THỨC TỈNH - V004",
+            "group": "ALOK",
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1SZlHmKlyV0WN5XISHFLSN1M_P4QGf723",
+            "img": "https://sf-static.upanhlaylink.com/img/image_202601270bcd2758d5ff3d5b40cb876e3d657225.jpg"
+          },
+          {
+            "id": "ff_alok_005",
+            "name": "ALOK THỨC TỈNH - V005",
+            "group": "ALOK",
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1LBpig4SGvW1LTVuRd3Wb-RA3QgOgeGIL",
+            "img": "https://sf-static.upanhlaylink.com/img/image_2026012714d498089891386db0c4110d807e5427.jpg"
+          },
+          {
+            "id": "ff_alok_006",
+            "name": "ALOK THỨC TỈNH - V006",
+            "group": "ALOK",
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1MW-UG5VohxFA_tpJ_StCnji11Mn-y-tU",
+            "img": "https://sf-static.upanhlaylink.com/img/image_202601272d62d16368535c4e1385380c8e278954.jpg"
+          },
+          {
+            "id": "ff_alok_007",
+            "name": "ALOK THỨC TỈNH - V007",
+            "group": "ALOK",
+            "downloadUrl": "https://drive.google.com/file/d/1UBzcvMpvNAHrnufMsJqj1zcwtayf6r5h/view?usp=drivesdk",
+            "img": "https://sf-static.upanhlaylink.com/img/image_202601274751a3a4cc6f455c79be4a35ecc5fc3c.jpg"
+          },
+          {
+            "id": "ff_alok_008",
+            "name": "ALOK THỨC TỈNH - V008",
+            "group": "ALOK",
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1-eZOIvXvZOcUcDMsOr_zRcIrYLlphuf1",
+            "img": "https://sf-static.upanhlaylink.com/img/image_20260127cbf4a1261b389412ca5eff522a45a72f.jpg"
+          },
+          {
+            "id": "ff_alok_009",
+            "name": "ALOK THỨC TỈNH - V009",
+            "group": "ALOK",
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1Cv1Fkt52eiC1EWh8yDjy5uovAwmqKko3",
+            "img": "https://sf-static.upanhlaylink.com/img/image_2026012750169b61c4b0472587a092f806b921b3.jpg"
+          },
+          {
+            "id": "ff_alok_010",
+            "name": "ALOK THỨC TỈNH - V010",
+            "group": "ALOK",
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1_fgaSEK6kJI9KkBkOwDJeFIQHYO7jlaN",
+            "img": "https://sf-static.upanhlaylink.com/img/image_202601276d0b493277b15a45fc27f341270524da.jpg"
+          },
+          {
+            "id": "ff_alok_011",
+            "name": "ALOK THỨC TỈNH - V011",
+            "group": "ALOK",
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=17NPN2Q3qLJuzS9jFrpmFlYTsw--_rGON",
+            "img": "https://sf-static.upanhlaylink.com/img/image_20260127ae93cec68e1c0337e50579f0b5ba0955.jpg"
+          },
+          {
+            "id": "ff_alok_012",
+            "name": "ALOK THỨC TỈNH - V012",
+            "group": "ALOK",
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=134ka7dMbmQTKqZLFe_0UdPo3s1backl8",
+            "img": "https://sf-static.upanhlaylink.com/img/image_2026012912e6fcf195895e2e60a9eb8aa4583fcd.jpg"
+          },
+          {
+            "id": "ff_alok_013",
+            "name": "ALOK THỨC TỈNH - V013",
+            "group": "ALOK",
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1M45G09bRPM1BDIpZXEwApfRkDlynWkkK",
+            "img": "https://sf-static.upanhlaylink.com/img/image_20260129159c112ebb1d418d7a0a2b547d9dac99.jpg"
+          },
+          {
+            "id": "ff_alok_014",
+            "name": "ALOK THỨC TỈNH - V014",
+            "group": "ALOK",
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1AHXBAoYrgSecuWU6zs1XT_cKWH_egK4b",
+            "img": "https://sf-static.upanhlaylink.com/img/image_20260129afdff5e662d53937e4e80492f33a70a9.jpg"
+          },
+          {
+            "id": "ff_alok_015",
+            "name": "ALOK THỨC TỈNH - V015",
+            "group": "ALOK",
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1F2zplEq51frgcg818SnbsJq5XPfH5WkC",
+            "img": "https://sf-static.upanhlaylink.com/img/image_202601291e99b7774441f1144456c946fd070637.jpg"
+          },
+          {
+            "id": "ff_alok_thienha",
+            "name": "Alok Thiên Hà 001",
+            "group": "ALOK",
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1uHUTUJzsck3QOD921af1y7mc4taXLiaN",
+            "img": "https://sf-static.upanhlaylink.com/img/image_20251227f35b37ebadf673d9791bc0890a1346c9.jpg"
+          },
+          {
+            "id": "ff_alok_002",
+            "name": "ALOK THỨC TỈNH - V2",
+            "group": "ALOK",
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1KFIUT1k0vyqU5r2GenrkzEiQASLnUavT",
+            "img": "https://sf-static.upanhlaylink.com/img/image_20251227eb872423a4eded32782ae62665876113.jpg"
+          },
+          {
+            "id": "ff_alok_003_old1",
+            "name": "ALOK THỨC TỈNH - V3 (OLD)",
+            "group": "ALOK",
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=108sRsLUr-lIo3C7y_ZIgeXE4QeCOh7H3",
+            "img": "https://sf-static.upanhlaylink.com/img/image_20251227722088aeb9c8e095575e2e2ce748446b.jpg"
+          },
+          {
+            "id": "ff_alok_004_old1",
+            "name": "ALOK THỨC TỈNH - V004 (OLD)",
+            "group": "ALOK",
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1yj8wRufRymEupOUlpMiM_E0dI6cagipP",
+            "img": "https://sf-static.upanhlaylink.com/img/image_20251227c94ea490fe55a28cc0c4ec372924c7ca.jpg"
+          },
+          {
+            "id": "ff_alok_005_old1",
+            "name": "ALOK THỨC TỈNH - V005 (OLD)",
+            "group": "ALOK",
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1HSWNQ7kRHhz-CnN5ZGsus-VOs03BbQSt",
+            "img": "https://sf-static.upanhlaylink.com/img/image_202512278c0df54946fb1b755e78972dfdd80a04.jpg"
+          },
+          {
+            "id": "ff_alok_006_old1",
+            "name": "ALOK THỨC TỈNH - V006 (OLD)",
+            "group": "ALOK",
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1YBabhs7QcRQd14f6rw843j0WY5kRi1dp",
+            "img": "https://sf-static.upanhlaylink.com/img/image_20251227c7600a8644e183c5e1a5dee0ee660733.jpg"
+          },
+          {
+            "id": "ff_wolfrahh_001",
+            "name": "WOLFRAHH - V001",
+            "group": "WOLFRAHH",
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1S-2sK5jrynKxfUN2XCiBiOkY1LkdHzNn",
+            "img": "https://sf-static.upanhlaylink.com/img/image_20251228535e92ac074f9d0e33505855721a2fa7.jpg"
+          },
+          {
+            "id": "ff_SKIN_001",
+            "name": "KAIROS - V001",
+            "group": "SKIN",
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1ksm_iNjPE43t3abR7rWSGZisndflSOfK",
+            "img": "https://sf-static.upanhlaylink.com/img/image_20260102d068107637651009320d083371b11d70.jpg"
+          }
+        ],
+        "nu": [
+          {
+            "id": "ff_kapella_pop",
+            "name": "Kapella Pop Star",
+            "group": "KAPELLA",
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1o6PqBXOLz8LKz4q22gTjw8nCJ5j3flEp",
+            "img": "https://sf-static.upanhlaylink.com/img/image_2025122709ebe16c9e79725c4030fb8d40307e5d.jpg"
+          },
+          {
+            "id": "ff_kapella_002",
+            "name": "KAPELLA - V002",
+            "group": "KAPELLA",
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1BfgFYxH6ApHp8OdT2i4922psfjMmY1ZI",
+            "img": "https://sf-static.upanhlaylink.com/img/image_2025122769a99fd0ec840ec640ae4493ce506ce8.jpg"
+          }
+        ]
+      }
+    },
+    "pack_mod": {
+      "useFilter": true,
+      "template": "tpl-landscape",
+      "tabs": [
+        {
+          "id": "pack_mod",
+          "name": "PACK COMBO"
+        }
+      ],
+      "items": {
+        "pack_mod": [
+          {
+            "id": "ff_pack_combo1",
+            "name": "Pack VIP 1",
+            "group": "PACK_MOD",
+            "downloadUrl": "https://raw.githubusercontent.com/doflamingohonghac-creator/hac/main/one1.zip",
+            "img": "https://raw.githubusercontent.com/doflamingohonghac-creator/hac/refs/heads/main/Gemini_Generated_Image_x9yke4x9yke4x9yk-small-small-small-small.png"
+          }
+        ]
+      }
+    },
+    "update1_char_nam": {
+      "useFilter": true,
+      "template": "tpl-portrait",
+      "tabs": [
+        {
+          "id": "nam",
+          "name": "NHÂN VẬT NAM"
+        },
+        {
+          "id": "nu",
+          "name": "NHÂN VẬT NỮ"
+        }
+      ],
+      "items": {
+        "nam": [],
+        "nu": []
+      }
+    },
+    "update_2_vesion": {
+      "useFilter": true,
+      "template": "tpl-landscape",
+      "tabs": [
+        {
+          "id": "update2_pack",
+          "name": "PACK COMBO V2"
+        }
+      ],
+      "items": {
+        "update2_pack": [
+          {
+            "id": "update2_pack_001",
+            "name": "Pack Combo V2 - Set 1",
+            "group": "UPDATE2_PACK",
+            "downloadUrl": "https://example.com/downloads/update2_pack_001.zip",
+            "img": "https://sf-static.upanhlaylink.com/img/image_20251228e5da1ccc293ebc9850329a4e827f9541.jpg"
+          },
+          {
+            "id": "update2_pack_002",
+            "name": "Pack Combo V2 - Set 2",
+            "group": "UPDATE2_PACK",
+            "downloadUrl": "https://example.com/downloads/update2_pack_002.zip",
+            "img": "https://sf-static.upanhlaylink.com/img/image_20251228e5da1ccc293ebc9850329a4e827f9541.jpg"
+          }
+        ]
+      }
+    }
+  }
+}
