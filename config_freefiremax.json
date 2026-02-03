@@ -1,1 +1,449 @@
-{"categories":{"gun":{"items":{"pi":[{"downloadUrl":"","group":"PI","id":"ffmax_gun_1770048367022","img":"","img1":"https://newocean.edu.vn/wp-content/uploads/2025/01/chinh-tri-vuong-quoc-anh.jpg","img2":"https://newocean.edu.vn/wp-content/uploads/2025/01/chinh-tri-vuong-quoc-anh.jpg","name":"luc tt"}],"smg":[{"downloadUrl":"https://example.com/downloads/ffmax_mp40_bunny.zip","group":"MP40","id":"ffmax_mp40_bunny","img":"https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/max/mp40_bunny.png","name":"MP40 Crazy Bunny MAX"}],"ar":[{"downloadUrl":"https://example.com/downloads/ffmax_m4a1_galaxy.zip","group":"M4A1","id":"ffmax_m4a1_galaxy","img":"https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/max/m4a1_galaxy.png","name":"M4A1 Galaxy MAX"},{"downloadUrl":"https://example.com/downloads/ffmax_ak47_dragon.zip","group":"AK47","id":"ffmax_ak47_dragon","img":"https://sf-static.upanhlaylink.com/img/image_202512230f5460f2e166fa1db48901e860d5b31d.jpg","name":"AK47 Dragon MAX"},{"downloadUrl":"https://example.com/downloads/ffmax_ak47_titan.zip","group":"AK47","id":"ffmax_ak47_titan","img":"https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/max/ak47_titan.png","name":"AK47 Titan MAX"},{"downloadUrl":"https://example.com/downloads/ffmax_scar_titan.zip","group":"SCAR","id":"ffmax_scar_titan","img":"https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/max/scar_titan.png","name":"SCAR Titan MAX"}],"sr":[{"downloadUrl":"https://example.com/downloads/ffmax_awm_winter.zip","group":"AWM","id":"ffmax_awm_winter","img":"https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/max/awm_winter.png","name":"AWM Winter MAX"}],"sg":[{"downloadUrl":"https://example.com/downloads/ffmax_m1014_phantom.zip","group":"M1014","id":"ffmax_m1014_phantom","img":"https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/max/m1014_phantom.png","name":"M1014 Phantom MAX"},{"downloadUrl":"https://drive.google.com/uc?export\u003ddownload\u0026id\u003d1T0_QlKE8JWBQhn_BemaBWWXN8ldjPzN5","group":"M1887","id":"ffmax_m1887_001","img":"https://sf-static.upanhlaylink.com/img/image_20251226c1982ecfda5e08769db9f09e7b1fe881.jpg","img1":"https://sf-static.upanhlaylink.com/img/image_202512263d3c9b6a75d34747d8511ac82d3bbe7d.jpg","img2":"https://sf-static.upanhlaylink.com/img/image_20251226c1982ecfda5e08769db9f09e7b1fe881.jpg","name":"M1887 - Thế Giới Ngầm"},{"downloadUrl":"https://drive.google.com/uc?export\u003ddownload\u0026id\u003d19EXw5GjTMKO14_jm9mrOAyV9TZ4ZBRfN","group":"M1887","id":"ffmax_m1887_002","img":"https://sf-static.upanhlaylink.com/img/image_202512263d3c9b6a75d34747d8511ac82d3bbe7d.jpg","name":"M1887 - Lữ Khách"}]},"tabs":[{"id":"pi","name":"SÚNG LỤC"},{"id":"smg","name":"TIỂU LIÊN"},{"id":"ar","name":"SÚNG TRƯỜNG"},{"id":"sr","name":"SÚNG TỈA"},{"id":"sg","name":"SHOTGUN"}],"template":"tpl-landscape","useFilter":true},"character":{"items":{"nam":[{"downloadUrl":"https://drive.google.com/uc?export\u003ddownload\u0026id\u003d18jTNeV_ae8BHZOaAynHsm1cbfrIug-Ww","group":"IGNIS","id":"ffmax_ignis_001","img":"https://sf-static.upanhlaylink.com/img/image_20251227ef58836da002f0692e8f610d917d3b3c.jpg","name":"IGNIS - V001"},{"downloadUrl":"https://drive.google.com/uc?export\u003ddownload\u0026id\u003d1FuBys0REi8-lGw65EvSvDoIH8GwDSW4I","group":"IGNIS","id":"ffmax_ignis_002","img":"https://sf-static.upanhlaylink.com/img/image_20251227dd327f4b1885cf92efb4ebda27f1264c.jpg","name":"IGNIS - V002"},{"downloadUrl":"https://drive.google.com/uc?export\u003ddownload\u0026id\u003d13hjTDSAZC9G1O4KxAb4Wk6rHJ9-6F46F","group":"IGNIS","id":"ffmax_ignis_003","img":"https://sf-static.upanhlaylink.com/img/image_2025122735d73f6ac554c7613294b1abda5686bd.jpg","name":"IGNIS - V003"},{"downloadUrl":"https://drive.google.com/uc?export\u003ddownload\u0026id\u003d17IGQMjbRjKV6rAYJfmSAqXUKd979SH8q","group":"IGNIS","id":"ffmax_ignis_004","img":"https://sf-static.upanhlaylink.com/img/image_202601274272927f04e37f9844a596cc86558040.jpg","name":"IGNIS - V004"},{"downloadUrl":"https://drive.google.com/uc?export\u003ddownload\u0026id\u003d1FXn0DEEd2848peXIRqVVkF4ejHbnk2bp","group":"IGNIS","id":"ffmax_ignis_005","img":"https://sf-static.upanhlaylink.com/img/image_202601280c67ff970a81ff83c53395c691599e3f.jpg","name":"IGNIS - V005"},{"downloadUrl":"https://drive.google.com/uc?export\u003ddownload\u0026id\u003d1pacHOqidtyX8eVs8tMMDu3wzDgzXVmQL","group":"IGNIS","id":"ffmax_ignis_006","img":"https://sf-static.upanhlaylink.com/img/image_202601283348a3dc7aa674dff4bfcb5d5036ed91.jpg","name":"IGNIS - V006"},{"downloadUrl":"https://drive.google.com/uc?export\u003ddownload\u0026id\u003d1A_1sTr1J-olGzYz_P90gKaNCxtSrumdU","group":"IGNIS","id":"ffmax_ignis_007","img":"https://sf-static.upanhlaylink.com/img/image_20260129c9ad421442ddd8365280478e2e5f0584.jpg","name":"IGNIS - V007"},{"downloadUrl":"https://drive.google.com/uc?export\u003ddownload\u0026id\u003d1iPu9UrEUMx938ju62Zcg-iTjdBHWSjGU","group":"IGNIS","id":"ffmax_ignis_008","img":"https://sf-static.upanhlaylink.com/img/image_20260129bfe8fbb17c6bd93c7cb36a31e8d388a8.jpg","name":"IGNIS - V008"},{"downloadUrl":"https://drive.google.com/uc?export\u003ddownload\u0026id\u003d1IWy_swzrhBDE-GHnv_NeE-DLNqp2ez0p","group":"IGNIS","id":"ffmax_ignis_009","img":"https://sf-static.upanhlaylink.com/img/image_20260129cf4381877bc37033f1b454dd2bd514d8.jpg","name":"IGNIS - V009"},{"downloadUrl":"https://drive.google.com/uc?export\u003ddownload\u0026id\u003d1is-upK5jhM7YAg5E79kG6gaHEjV5Djtb","group":"IGNIS","id":"ffmax_ignis_010","img":"https://sf-static.upanhlaylink.com/img/image_202601292d43a6d9665c05b0b9a2a725c25f59bb.jpg","name":"IGNIS - V010"},{"downloadUrl":"https://drive.google.com/uc?export\u003ddownload\u0026id\u003d13EMzhIfhkPVpbWlV6czGZR6OaL61dfTI","group":"IGNIS","id":"ffmax_ignis_011","img":"https://sf-static.upanhlaylink.com/img/image_2026013110bf3b257ba5a78729c7f148c3921aab.jpg","name":"IGNIS - V011"},{"downloadUrl":"https://drive.google.com/uc?export\u003ddownload\u0026id\u003d1wNtBPiIQdUhTXr4l9FwsrPgWWwpKzJvU","group":"ALOK","id":"ffmax_alok_001","img":"https://sf-static.upanhlaylink.com/img/image_2026012912e6fcf195895e2e60a9eb8aa4583fcd.jpg","name":"ALOK - V001"},{"downloadUrl":"https://drive.google.com/uc?export\u003ddownload\u0026id\u003d1FHXA-dZhI8xEgOIJjf-EPve4jdhNkfj_","group":"ALOK","id":"ffmax_alok_002","img":"https://sf-static.upanhlaylink.com/img/image_20260129710ee6c034ce205144dfea7a26a6fbf7.jpg","name":"ALOK - V002"},{"downloadUrl":"https://drive.google.com/uc?export\u003ddownload\u0026id\u003d1XctlwvNY3z0aYnlhfR72XPUKF-OM052N","group":"ALOK","id":"ffmax_alok_003","img":"https://sf-static.upanhlaylink.com/img/image_202601270bcd2758d5ff3d5b40cb876e3d657225.jpg","name":"ALOK - V003"},{"downloadUrl":"https://drive.google.com/uc?export\u003ddownload\u0026id\u003d1gEWTGC-hqhz5OpOXLpTTDoDraRu4Q0Nx","group":"ALOK","id":"ffmax_alok_004","img":"https://sf-static.upanhlaylink.com/img/image_2026012714d498089891386db0c4110d807e5427.jpg","name":"ALOK - V004"},{"downloadUrl":"https://drive.google.com/uc?export\u003ddownload\u0026id\u003d18SaoPaCX5bEVpCqRGHEQgNTMC-305thG","group":"ALOK","id":"ffmax_alok_005","img":"https://sf-static.upanhlaylink.com/img/image_2026012750169b61c4b0472587a092f806b921b3.jpg","name":"ALOK - V005"},{"downloadUrl":"https://drive.google.com/uc?export\u003ddownload\u0026id\u003d17AOt2nCxge1fpLJ55RGXWBgrEIMOErHr","group":"ALOK","id":"ffmax_alok_006","img":"https://sf-static.upanhlaylink.com/img/image_202601291e99b7774441f1144456c946fd070637.jpg","name":"ALOK - V006"},{"downloadUrl":"https://drive.google.com/uc?export\u003ddownload\u0026id\u003d1s2tDokn77iIDT0I6SHdsfDcZFDjoFIw_","group":"ALOK","id":"ffmax_alok_007","img":"https://sf-static.upanhlaylink.com/img/image_202601272d62d16368535c4e1385380c8e278954.jpg","name":"ALOK - V007"},{"downloadUrl":"https://drive.google.com/uc?export\u003ddownload\u0026id\u003d18s5Rm5PERnyhIQRkt9-imsTgNoSjtqXF","group":"ALOK","id":"ffmax_alok_008","img":"https://sf-static.upanhlaylink.com/img/image_20260127a915aa0d92f83c9c66b9054ebeb13e3e.jpg","name":"ALOK - V008"},{"downloadUrl":"https://drive.google.com/file/d/1B2d1NLc51sdNbXmvzltzQusNC8OSmiC8/view?usp\u003ddrivesdk","group":"ALOK","id":"ffmax_alok_009","img":"https://sf-static.upanhlaylink.com/img/image_20260127cbf4a1261b389412ca5eff522a45a72f.jpg","name":"ALOK - V009"},{"downloadUrl":"https://drive.google.com/uc?export\u003ddownload\u0026id\u003d1ipmcAGWkwu35W6L2CK36hQqKK2gVOLUd","group":"ALOK","id":"ffmax_alok_010","img":"https://sf-static.upanhlaylink.com/img/image_202601276d0b493277b15a45fc27f341270524da.jpg","name":"ALOK - V010"},{"downloadUrl":"https://drive.google.com/uc?export\u003ddownload\u0026id\u003d1tNtqgtx6FJOpaM-b4w5irMGXmj5O_CxG","group":"ALOK","id":"ffmax_alok_011","img":"https://sf-static.upanhlaylink.com/img/image_20260127ae93cec68e1c0337e50579f0b5ba0955.jpg","name":"ALOK - V011"},{"downloadUrl":"https://drive.google.com/file/d/18d4sF8VfbkHFb9aThi3pnQIvvc3Rtwvc/view?usp\u003dsharing","group":"ALOK","id":"ffmax_V2","img":"https://sf-static.upanhlaylink.com/img/image_20251227ab0bdc026350160dd134ebf15337d3b1.jpg","name":"ALOK_v2_max"},{"downloadUrl":"https://drive.google.com/uc?export\u003ddownload\u0026id\u003d1JO-4uxQMTkQJ5r0YkObgDk8zJyM19GMc","group":"ALOK","id":"https://drive.google.com/uc?export\u003ddownload\u0026id\u003d1JO-4uxQMTkQJ5r0YkObgDk8zJyM19GMcffmax_alok_004","img":"https://sf-static.upanhlaylink.com/img/image_20251227722088aeb9c8e095575e2e2ce748446b.jpg","name":"ALOK - V4"}],"nu":[{"downloadUrl":"https://drive.google.com/file/d/1BfgFYxH6ApHp8OdT2i4922psfjMmY1ZI/view?usp\u003dsharing","group":"KAPELLA","id":"ffmax_kapella_001","img":"https://sf-static.upanhlaylink.com/img/image_2025122769a99fd0ec840ec640ae4493ce506ce8.jpg","name":"KAPELLA - V001"},{"downloadUrl":"https://drive.google.com/uc?export\u003ddownload\u0026id\u003d1OjQg4vVYOY6vMoPQDTjTmKfRw0jGW8OA","group":"KAPELLA","id":"ffmax_kapella_002","img":"https://sf-static.upanhlaylink.com/img/image_20260128be86b3598b68ae97b83f8e1d73c4ffcb.jpg","name":"KAPELLA - V002"},{"downloadUrl":"","group":"NU","id":"ffmax_character_1770048438257","img":"","img1":"https://newocean.edu.vn/wp-content/uploads/2025/01/chinh-tri-vuong-quoc-anh.jpg","img2":"https://newocean.edu.vn/wp-content/uploads/2025/01/chinh-tri-vuong-quoc-anh.jpg","name":"ff"}]},"tabs":[{"id":"nam","name":"NHÂN VẬT NAM"},{"id":"nu","name":"NHÂN VẬT NỮ"}],"template":"tpl-portrait","useFilter":true},"pack_mod":{"items":{"pack_mod":[{"downloadUrl":"https://drive.google.com/uc?export\u003ddownload\u0026id\u003d1p3PZMMgoZvM9VYabBQtuwahy0IwktMVR","group":"PACK_MOD","id":"ffmax_pack_combo1","img":"https://raw.githubusercontent.com/doflamingohonghac-creator/hac/refs/heads/main/Gemini_Generated_Image_x9yke4x9yke4x9yk-small-small-small-small.png","name":"Pack VIP 1 MAX"},{"downloadUrl":"","group":"PACK_MOD","id":"ffmax_pack_mod_1770093281290","img":"https://i.9mobi.vn/cf/images/2015/03/nkk/hinh-dep-12.jpg","img1":"","img2":"","name":"a"}]},"tabs":[{"id":"pack_mod","name":"PACK COMBO"}],"template":"tpl-landscape","useFilter":true},"update_1_vesion":{"items":{"nam":[{"downloadUrl":"https://example.com/downloads/ffmax_update1_nam_001.zip","group":"UPDATE1_CHAR_NAM","id":"ffmax_update1_nam_001","img":"https://sf-static.upanhlaylink.com/img/image_20251227f35b37ebadf673d9791bc0890a1346c9.jpg","name":"Nhân Vật Nam MAX - V001"},{"downloadUrl":"https://example.com/downloads/ffmax_update1_nam_002.zip","group":"UPDATE1_CHAR_NAM","id":"ffmax_update1_nam_002","img":"https://sf-static.upanhlaylink.com/img/image_20251227ab0bdc026350160dd134ebf15337d3b1.jpg","name":"Nhân Vật Nam MAX - V002"}],"nu":[{"downloadUrl":"https://example.com/downloads/ffmax_update1_nu_001.zip","group":"UPDATE1_CHAR_NU","id":"ffmax_update1_nu_001","img":"https://freefiremobile-a.akamaihd.net/common/web_event/official2.ff.garena.all/img/20228/9c6b10d2984125fbdd96fae9e0a84518.png","name":"Nhân Vật Nữ MAX - V001"},{"downloadUrl":"https://example.com/downloads/ffmax_update1_nu_002.zip","group":"UPDATE1_CHAR_NU","id":"ffmax_update1_nu_002","img":"https://freefiremobile-a.akamaihd.net/common/web_event/official2.ff.garena.all/img/20228/9c6b10d2984125fbdd96fae9e0a84518.png","name":"Nhân Vật Nữ MAX - V002"}]},"tabs":[{"id":"nam","name":"NHÂN VẬT NAM"},{"id":"nu","name":"NHÂN VẬT NỮ"}],"template":"tpl-landscape","useFilter":true},"update_2_vesion":{"items":{"update2_pack":[{"downloadUrl":"https://example.com/downloads/ffmax_update2_pack_001.zip","group":"UPDATE2_PACK","id":"ffmax_update2_pack_001","img":"https://sf-static.upanhlaylink.com/img/image_20251228e5da1ccc293ebc9850329a4e827f9541.jpg","name":"Pack Combo MAX V2 - Set 1"},{"downloadUrl":"https://example.com/downloads/ffmax_update2_pack_002.zip","group":"UPDATE2_PACK","id":"ffmax_update2_pack_002","img":"https://sf-static.upanhlaylink.com/img/image_20251228e5da1ccc293ebc9850329a4e827f9541.jpg","name":"Pack Combo MAX V2 - Set 2"}]},"tabs":[{"id":"update2_pack","name":"PACK COMBO V2"}],"template":"tpl-landscape","useFilter":true}},"homeMenu":[{"icon":"🔫","id":"gun","isVip":false,"subtitle":"Các skin súng cực đẹp","title":"SKIN SÚNG"},{"icon":"👨","id":"character","isVip":false,"subtitle":"Trang phục nhân vật thời thượng","title":"SKIN NHÂN VẬT"},{"icon":"🎒","id":"pack_mod","isVip":true,"subtitle":"Combo nhiều mod trong 1 pack","title":"PACK MOD"},{"icon":"📦","id":"update_1_vesion","isVip":false,"subtitle":"Bộ sưu tập mod phiên bản 1","title":"UPDATE VERSION 1"},{"icon":"📦","id":"update_2_vesion","isVip":false,"subtitle":"Combo pack phiên bản 2","title":"UPDATE VERSION 2"}]}
+{
+    "categories": {
+        "skin_gun": {
+            "items": {
+                "pi": [],
+                "smg": [
+                    {
+                        "downloadUrl": "https://example.com/downloads/ffmax_mp40_bunny.zip",
+                        "group": "MP40",
+                        "id": "ffmax_mp40_bunny",
+                        "name": "MP40 Crazy Bunny MAX",
+                        "img1": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/max/mp40_bunny.png",
+                        "img2": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/max/mp40_bunny.png"
+                    }
+                ],
+                "ar": [
+                    {
+                        "downloadUrl": "https://example.com/downloads/ffmax_m4a1_galaxy.zip",
+                        "group": "M4A1",
+                        "id": "ffmax_m4a1_galaxy",
+                        "name": "M4A1 Galaxy MAX",
+                        "img1": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/max/m4a1_galaxy.png",
+                        "img2": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/max/m4a1_galaxy.png"
+                    },
+                    {
+                        "downloadUrl": "https://example.com/downloads/ffmax_ak47_dragon.zip",
+                        "group": "AK47",
+                        "id": "ffmax_ak47_dragon",
+                        "name": "AK47 Dragon MAX",
+                        "img1": "https://sf-static.upanhlaylink.com/img/image_202512230f5460f2e166fa1db48901e860d5b31d.jpg",
+                        "img2": "https://sf-static.upanhlaylink.com/img/image_202512230f5460f2e166fa1db48901e860d5b31d.jpg"
+                    },
+                    {
+                        "downloadUrl": "https://example.com/downloads/ffmax_ak47_titan.zip",
+                        "group": "AK47",
+                        "id": "ffmax_ak47_titan",
+                        "name": "AK47 Titan MAX",
+                        "img1": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/max/ak47_titan.png",
+                        "img2": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/max/ak47_titan.png"
+                    },
+                    {
+                        "downloadUrl": "https://example.com/downloads/ffmax_scar_titan.zip",
+                        "group": "SCAR",
+                        "id": "ffmax_scar_titan",
+                        "name": "SCAR Titan MAX",
+                        "img1": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/max/scar_titan.png",
+                        "img2": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/max/scar_titan.png"
+                    }
+                ],
+                "sr": [
+                    {
+                        "downloadUrl": "https://example.com/downloads/ffmax_awm_winter.zip",
+                        "group": "AWM",
+                        "id": "ffmax_awm_winter",
+                        "name": "AWM Winter MAX",
+                        "img1": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/max/awm_winter.png",
+                        "img2": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/max/awm_winter.png"
+                    }
+                ],
+                "sg": [
+                    {
+                        "downloadUrl": "https://example.com/downloads/ffmax_m1014_phantom.zip",
+                        "group": "M1014",
+                        "id": "ffmax_m1014_phantom",
+                        "name": "M1014 Phantom MAX",
+                        "img1": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/max/m1014_phantom.png",
+                        "img2": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/max/m1014_phantom.png"
+                    },
+                    {
+                        "downloadUrl": "https://drive.google.com/uc?export=download&id=1T0_QlKE8JWBQhn_BemaBWWXN8ldjPzN5",
+                        "group": "M1887",
+                        "id": "ffmax_m1887_001",
+                        "img1": "https://sf-static.upanhlaylink.com/img/image_202512263d3c9b6a75d34747d8511ac82d3bbe7d.jpg",
+                        "img2": "https://sf-static.upanhlaylink.com/img/image_20251226c1982ecfda5e08769db9f09e7b1fe881.jpg",
+                        "name": "M1887 - Thế Giới Ngầm"
+                    },
+                    {
+                        "downloadUrl": "https://drive.google.com/uc?export=download&id=19EXw5GjTMKO14_jm9mrOAyV9TZ4ZBRfN",
+                        "group": "M1887",
+                        "id": "ffmax_m1887_002",
+                        "name": "M1887 - Lữ Khách",
+                        "img1": "https://sf-static.upanhlaylink.com/img/image_202512263d3c9b6a75d34747d8511ac82d3bbe7d.jpg",
+                        "img2": "https://sf-static.upanhlaylink.com/img/image_202512263d3c9b6a75d34747d8511ac82d3bbe7d.jpg"
+                    }
+                ]
+            },
+            "tabs": [
+                {
+                    "id": "pi",
+                    "name": "SÚNG LỤC"
+                },
+                {
+                    "id": "smg",
+                    "name": "TIỂU LIÊN"
+                },
+                {
+                    "id": "ar",
+                    "name": "SÚNG TRƯỜNG"
+                },
+                {
+                    "id": "sr",
+                    "name": "SÚNG TỈA"
+                },
+                {
+                    "id": "sg",
+                    "name": "SHOTGUN"
+                }
+            ],
+            "template": "khung-2-anh",
+            "useFilter": true
+        },
+        "skin_char": {
+            "items": {
+                "nam": [
+                    {
+                        "downloadUrl": "https://drive.google.com/uc?export=download&id=18jTNeV_ae8BHZOaAynHsm1cbfrIug-Ww",
+                        "group": "IGNIS",
+                        "id": "ffmax_ignis_001",
+                        "img": "https://sf-static.upanhlaylink.com/img/image_20251227ef58836da002f0692e8f610d917d3b3c.jpg",
+                        "name": "IGNIS - V001"
+                    },
+                    {
+                        "downloadUrl": "https://drive.google.com/uc?export=download&id=1FuBys0REi8-lGw65EvSvDoIH8GwDSW4I",
+                        "group": "IGNIS",
+                        "id": "ffmax_ignis_002",
+                        "img": "https://sf-static.upanhlaylink.com/img/image_20251227dd327f4b1885cf92efb4ebda27f1264c.jpg",
+                        "name": "IGNIS - V002"
+                    },
+                    {
+                        "downloadUrl": "https://drive.google.com/uc?export=download&id=13hjTDSAZC9G1O4KxAb4Wk6rHJ9-6F46F",
+                        "group": "IGNIS",
+                        "id": "ffmax_ignis_003",
+                        "img": "https://sf-static.upanhlaylink.com/img/image_2025122735d73f6ac554c7613294b1abda5686bd.jpg",
+                        "name": "IGNIS - V003"
+                    },
+                    {
+                        "downloadUrl": "https://drive.google.com/uc?export=download&id=17IGQMjbRjKV6rAYJfmSAqXUKd979SH8q",
+                        "group": "IGNIS",
+                        "id": "ffmax_ignis_004",
+                        "img": "https://sf-static.upanhlaylink.com/img/image_202601274272927f04e37f9844a596cc86558040.jpg",
+                        "name": "IGNIS - V004"
+                    },
+                    {
+                        "downloadUrl": "https://drive.google.com/uc?export=download&id=1FXn0DEEd2848peXIRqVVkF4ejHbnk2bp",
+                        "group": "IGNIS",
+                        "id": "ffmax_ignis_005",
+                        "img": "https://sf-static.upanhlaylink.com/img/image_202601280c67ff970a81ff83c53395c691599e3f.jpg",
+                        "name": "IGNIS - V005"
+                    },
+                    {
+                        "downloadUrl": "https://drive.google.com/uc?export=download&id=1pacHOqidtyX8eVs8tMMDu3wzDgzXVmQL",
+                        "group": "IGNIS",
+                        "id": "ffmax_ignis_006",
+                        "img": "https://sf-static.upanhlaylink.com/img/image_202601283348a3dc7aa674dff4bfcb5d5036ed91.jpg",
+                        "name": "IGNIS - V006"
+                    },
+                    {
+                        "downloadUrl": "https://drive.google.com/uc?export=download&id=1A_1sTr1J-olGzYz_P90gKaNCxtSrumdU",
+                        "group": "IGNIS",
+                        "id": "ffmax_ignis_007",
+                        "img": "https://sf-static.upanhlaylink.com/img/image_20260129c9ad421442ddd8365280478e2e5f0584.jpg",
+                        "name": "IGNIS - V007"
+                    },
+                    {
+                        "downloadUrl": "https://drive.google.com/uc?export=download&id=1iPu9UrEUMx938ju62Zcg-iTjdBHWSjGU",
+                        "group": "IGNIS",
+                        "id": "ffmax_ignis_008",
+                        "img": "https://sf-static.upanhlaylink.com/img/image_20260129bfe8fbb17c6bd93c7cb36a31e8d388a8.jpg",
+                        "name": "IGNIS - V008"
+                    },
+                    {
+                        "downloadUrl": "https://drive.google.com/uc?export=download&id=1IWy_swzrhBDE-GHnv_NeE-DLNqp2ez0p",
+                        "group": "IGNIS",
+                        "id": "ffmax_ignis_009",
+                        "img": "https://sf-static.upanhlaylink.com/img/image_20260129cf4381877bc37033f1b454dd2bd514d8.jpg",
+                        "name": "IGNIS - V009"
+                    },
+                    {
+                        "downloadUrl": "https://drive.google.com/uc?export=download&id=1is-upK5jhM7YAg5E79kG6gaHEjV5Djtb",
+                        "group": "IGNIS",
+                        "id": "ffmax_ignis_010",
+                        "img": "https://sf-static.upanhlaylink.com/img/image_202601292d43a6d9665c05b0b9a2a725c25f59bb.jpg",
+                        "name": "IGNIS - V010"
+                    },
+                    {
+                        "downloadUrl": "https://drive.google.com/uc?export=download&id=13EMzhIfhkPVpbWlV6czGZR6OaL61dfTI",
+                        "group": "IGNIS",
+                        "id": "ffmax_ignis_011",
+                        "img": "https://sf-static.upanhlaylink.com/img/image_2026013110bf3b257ba5a78729c7f148c3921aab.jpg",
+                        "name": "IGNIS - V011"
+                    },
+                    {
+                        "downloadUrl": "https://drive.google.com/uc?export=download&id=1wNtBPiIQdUhTXr4l9FwsrPgWWwpKzJvU",
+                        "group": "ALOK",
+                        "id": "ffmax_alok_001",
+                        "img": "https://sf-static.upanhlaylink.com/img/image_2026012912e6fcf195895e2e60a9eb8aa4583fcd.jpg",
+                        "name": "ALOK - V001"
+                    },
+                    {
+                        "downloadUrl": "https://drive.google.com/uc?export=download&id=1FHXA-dZhI8xEgOIJjf-EPve4jdhNkfj_",
+                        "group": "ALOK",
+                        "id": "ffmax_alok_002",
+                        "img": "https://sf-static.upanhlaylink.com/img/image_20260129710ee6c034ce205144dfea7a26a6fbf7.jpg",
+                        "name": "ALOK - V002"
+                    },
+                    {
+                        "downloadUrl": "https://drive.google.com/uc?export=download&id=1XctlwvNY3z0aYnlhfR72XPUKF-OM052N",
+                        "group": "ALOK",
+                        "id": "ffmax_alok_003",
+                        "img": "https://sf-static.upanhlaylink.com/img/image_202601270bcd2758d5ff3d5b40cb876e3d657225.jpg",
+                        "name": "ALOK - V003"
+                    },
+                    {
+                        "downloadUrl": "https://drive.google.com/uc?export=download&id=1gEWTGC-hqhz5OpOXLpTTDoDraRu4Q0Nx",
+                        "group": "ALOK",
+                        "id": "ffmax_alok_004",
+                        "img": "https://sf-static.upanhlaylink.com/img/image_2026012714d498089891386db0c4110d807e5427.jpg",
+                        "name": "ALOK - V004"
+                    },
+                    {
+                        "downloadUrl": "https://drive.google.com/uc?export=download&id=18SaoPaCX5bEVpCqRGHEQgNTMC-305thG",
+                        "group": "ALOK",
+                        "id": "ffmax_alok_005",
+                        "img": "https://sf-static.upanhlaylink.com/img/image_2026012750169b61c4b0472587a092f806b921b3.jpg",
+                        "name": "ALOK - V005"
+                    },
+                    {
+                        "downloadUrl": "https://drive.google.com/uc?export=download&id=17AOt2nCxge1fpLJ55RGXWBgrEIMOErHr",
+                        "group": "ALOK",
+                        "id": "ffmax_alok_006",
+                        "img": "https://sf-static.upanhlaylink.com/img/image_202601291e99b7774441f1144456c946fd070637.jpg",
+                        "name": "ALOK - V006"
+                    },
+                    {
+                        "downloadUrl": "https://drive.google.com/uc?export=download&id=1s2tDokn77iIDT0I6SHdsfDcZFDjoFIw_",
+                        "group": "ALOK",
+                        "id": "ffmax_alok_007",
+                        "img": "https://sf-static.upanhlaylink.com/img/image_202601272d62d16368535c4e1385380c8e278954.jpg",
+                        "name": "ALOK - V007"
+                    },
+                    {
+                        "downloadUrl": "https://drive.google.com/uc?export=download&id=18s5Rm5PERnyhIQRkt9-imsTgNoSjtqXF",
+                        "group": "ALOK",
+                        "id": "ffmax_alok_008",
+                        "img": "https://sf-static.upanhlaylink.com/img/image_20260127a915aa0d92f83c9c66b9054ebeb13e3e.jpg",
+                        "name": "ALOK - V008"
+                    },
+                    {
+                        "downloadUrl": "https://drive.google.com/file/d/1B2d1NLc51sdNbXmvzltzQusNC8OSmiC8/view?usp=drivesdk",
+                        "group": "ALOK",
+                        "id": "ffmax_alok_009",
+                        "img": "https://sf-static.upanhlaylink.com/img/image_20260127cbf4a1261b389412ca5eff522a45a72f.jpg",
+                        "name": "ALOK - V009"
+                    },
+                    {
+                        "downloadUrl": "https://drive.google.com/uc?export=download&id=1ipmcAGWkwu35W6L2CK36hQqKK2gVOLUd",
+                        "group": "ALOK",
+                        "id": "ffmax_alok_010",
+                        "img": "https://sf-static.upanhlaylink.com/img/image_202601276d0b493277b15a45fc27f341270524da.jpg",
+                        "name": "ALOK - V010"
+                    },
+                    {
+                        "downloadUrl": "https://drive.google.com/uc?export=download&id=1tNtqgtx6FJOpaM-b4w5irMGXmj5O_CxG",
+                        "group": "ALOK",
+                        "id": "ffmax_alok_011",
+                        "img": "https://sf-static.upanhlaylink.com/img/image_20260127ae93cec68e1c0337e50579f0b5ba0955.jpg",
+                        "name": "ALOK - V011"
+                    },
+                    {
+                        "downloadUrl": "https://drive.google.com/file/d/18d4sF8VfbkHFb9aThi3pnQIvvc3Rtwvc/view?usp=sharing",
+                        "group": "ALOK",
+                        "id": "ffmax_V2",
+                        "img": "https://sf-static.upanhlaylink.com/img/image_20251227ab0bdc026350160dd134ebf15337d3b1.jpg",
+                        "name": "ALOK_v2_max"
+                    },
+                    {
+                        "downloadUrl": "https://drive.google.com/uc?export=download&id=1JO-4uxQMTkQJ5r0YkObgDk8zJyM19GMc",
+                        "group": "ALOK",
+                        "id": "https://drive.google.com/uc?export=download&id=1JO-4uxQMTkQJ5r0YkObgDk8zJyM19GMcffmax_alok_004",
+                        "img": "https://sf-static.upanhlaylink.com/img/image_20251227722088aeb9c8e095575e2e2ce748446b.jpg",
+                        "name": "ALOK - V4"
+                    }
+                ],
+                "nu": [
+                    {
+                        "downloadUrl": "https://drive.google.com/uc?export=download&id=1BfgFYxH6ApHp8OdT2i4922psfjMmY1ZI",
+                        "group": "KAPELLA",
+                        "id": "ffmax_kapella_001",
+                        "img": "https://sf-static.upanhlaylink.com/img/image_2025122769a99fd0ec840ec640ae4493ce506ce8.jpg",
+                        "name": "KAPELLA - V001"
+                    },
+                    {
+                        "downloadUrl": "https://drive.google.com/uc?export=download&id=1OjQg4vVYOY6vMoPQDTjTmKfRw0jGW8OA",
+                        "group": "KAPELLA",
+                        "id": "ffmax_kapella_002",
+                        "img": "https://sf-static.upanhlaylink.com/img/image_20260128be86b3598b68ae97b83f8e1d73c4ffcb.jpg",
+                        "name": "KAPELLA - V002"
+                    }
+                ]
+            },
+            "tabs": [
+                {
+                    "id": "nam",
+                    "name": "NHÂN VẬT NAM"
+                },
+                {
+                    "id": "nu",
+                    "name": "NHÂN VẬT NỮ"
+                }
+            ],
+            "template": "khung-nhanvat",
+            "useFilter": true
+        },
+        "pack_mod": {
+            "items": {
+                "pack_mod": [
+                    {
+                        "downloadUrl": "https://drive.google.com/uc?export=download&id=1p3PZMMgoZvM9VYabBQtuwahy0IwktMVR",
+                        "group": "PACK_MOD",
+                        "id": "ffmax_pack_combo1",
+                        "img": "https://raw.githubusercontent.com/doflamingohonghac-creator/hac/refs/heads/main/Gemini_Generated_Image_x9yke4x9yke4x9yk-small-small-small-small.png",
+                        "name": "Pack VIP 1 MAX"
+                    }
+                ]
+            },
+            "tabs": [
+                {
+                    "id": "pack_mod",
+                    "name": "PACK COMBO"
+                }
+            ],
+            "template": "khung-ngang",
+            "useFilter": true
+        },
+        "update_1_vesion": {
+            "items": {
+                "nam": [
+                    {
+                        "downloadUrl": "https://example.com/downloads/ffmax_update1_nam_001.zip",
+                        "group": "UPDATE1_CHAR_NAM",
+                        "id": "ffmax_update1_nam_001",
+                        "img": "https://sf-static.upanhlaylink.com/img/image_20251227f35b37ebadf673d9791bc0890a1346c9.jpg",
+                        "name": "Nhân Vật Nam MAX - V001"
+                    },
+                    {
+                        "downloadUrl": "https://example.com/downloads/ffmax_update1_nam_002.zip",
+                        "group": "UPDATE1_CHAR_NAM",
+                        "id": "ffmax_update1_nam_002",
+                        "img": "https://sf-static.upanhlaylink.com/img/image_20251227ab0bdc026350160dd134ebf15337d3b1.jpg",
+                        "name": "Nhân Vật Nam MAX - V002"
+                    }
+                ],
+                "nu": [
+                    {
+                        "downloadUrl": "https://example.com/downloads/ffmax_update1_nu_001.zip",
+                        "group": "UPDATE1_CHAR_NU",
+                        "id": "ffmax_update1_nu_001",
+                        "img": "https://freefiremobile-a.akamaihd.net/common/web_event/official2.ff.garena.all/img/20228/9c6b10d2984125fbdd96fae9e0a84518.png",
+                        "name": "Nhân Vật Nữ MAX - V001"
+                    },
+                    {
+                        "downloadUrl": "https://example.com/downloads/ffmax_update1_nu_002.zip",
+                        "group": "UPDATE1_CHAR_NU",
+                        "id": "ffmax_update1_nu_002",
+                        "img": "https://freefiremobile-a.akamaihd.net/common/web_event/official2.ff.garena.all/img/20228/9c6b10d2984125fbdd96fae9e0a84518.png",
+                        "name": "Nhân Vật Nữ MAX - V002"
+                    }
+                ]
+            },
+            "tabs": [
+                {
+                    "id": "nam",
+                    "name": "NHÂN VẬT NAM"
+                },
+                {
+                    "id": "nu",
+                    "name": "NHÂN VẬT NỮ"
+                }
+            ],
+            "template": "khung-ngang",
+            "useFilter": true
+        },
+        "update_2_vesion": {
+            "items": {
+                "update2_pack": [
+                    {
+                        "downloadUrl": "https://example.com/downloads/ffmax_update2_pack_001.zip",
+                        "group": "UPDATE2_PACK",
+                        "id": "ffmax_update2_pack_001",
+                        "img": "https://sf-static.upanhlaylink.com/img/image_20251228e5da1ccc293ebc9850329a4e827f9541.jpg",
+                        "name": "Pack Combo MAX V2 - Set 1"
+                    },
+                    {
+                        "downloadUrl": "https://example.com/downloads/ffmax_update2_pack_002.zip",
+                        "group": "UPDATE2_PACK",
+                        "id": "ffmax_update2_pack_002",
+                        "img": "https://sf-static.upanhlaylink.com/img/image_20251228e5da1ccc293ebc9850329a4e827f9541.jpg",
+                        "name": "Pack Combo MAX V2 - Set 2"
+                    }
+                ]
+            },
+            "tabs": [
+                {
+                    "id": "update2_pack",
+                    "name": "PACK COMBO V2"
+                }
+            ],
+            "template": "khung-ngang",
+            "useFilter": true
+        }
+    },
+    "homeMenu": [
+        {
+            "icon": "🔫",
+            "id": "skin_gun",
+            "isVip": false,
+            "subtitle": "Các skin súng cực đẹp",
+            "title": "SKIN SÚNG"
+        },
+        {
+            "icon": "👨",
+            "id": "skin_char",
+            "isVip": false,
+            "subtitle": "Trang phục nhân vật thời thượng",
+            "title": "SKIN NHÂN VẬT"
+        },
+        {
+            "icon": "🎒",
+            "id": "pack_mod",
+            "isVip": true,
+            "subtitle": "Combo nhiều mod trong 1 pack",
+            "title": "PACK MOD"
+        },
+        {
+            "icon": "📦",
+            "id": "update_1_vesion",
+            "isVip": false,
+            "subtitle": "Bộ sưu tập mod phiên bản 1",
+            "title": "UPDATE VERSION 1"
+        },
+        {
+            "icon": "📦",
+            "id": "update_2_vesion",
+            "isVip": false,
+            "subtitle": "Combo pack phiên bản 2",
+            "title": "UPDATE VERSION 2"
+        }
+    ]
+}
