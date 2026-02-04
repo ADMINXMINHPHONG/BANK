@@ -1,8 +1,17 @@
 {
     "categories": {
-        "skin_gun": {
+        "gun": {
             "items": {
-                "pi": [],
+                "pi": [
+                    {
+                        "downloadUrl": "",
+                        "group": "PI",
+                        "id": "ffmax_gun_1770048367022",
+                        "img1": "https://newocean.edu.vn/wp-content/uploads/2025/01/chinh-tri-vuong-quoc-anh.jpg",
+                        "img2": "https://newocean.edu.vn/wp-content/uploads/2025/01/chinh-tri-vuong-quoc-anh.jpg",
+                        "name": "luc tt"
+                    }
+                ],
                 "smg": [
                     {
                         "downloadUrl": "https://example.com/downloads/ffmax_mp40_bunny.zip",
@@ -109,7 +118,7 @@
             "template": "khung-2-anh",
             "useFilter": true
         },
-        "skin_char": {
+        "character": {
             "items": {
                 "nam": [
                     {
@@ -283,7 +292,7 @@
                 ],
                 "nu": [
                     {
-                        "downloadUrl": "https://drive.google.com/uc?export=download&id=1BfgFYxH6ApHp8OdT2i4922psfjMmY1ZI",
+                        "downloadUrl": "https://drive.google.com/file/d/1BfgFYxH6ApHp8OdT2i4922psfjMmY1ZI/view?usp=sharing",
                         "group": "KAPELLA",
                         "id": "ffmax_kapella_001",
                         "img": "https://sf-static.upanhlaylink.com/img/image_2025122769a99fd0ec840ec640ae4493ce506ce8.jpg",
@@ -295,6 +304,13 @@
                         "id": "ffmax_kapella_002",
                         "img": "https://sf-static.upanhlaylink.com/img/image_20260128be86b3598b68ae97b83f8e1d73c4ffcb.jpg",
                         "name": "KAPELLA - V002"
+                    },
+                    {
+                        "downloadUrl": "",
+                        "group": "NU",
+                        "id": "ffmax_character_1770048438257",
+                        "img": "https://newocean.edu.vn/wp-content/uploads/2025/01/chinh-tri-vuong-quoc-anh.jpg",
+                        "name": "ff"
                     }
                 ]
             },
@@ -412,14 +428,14 @@
     "homeMenu": [
         {
             "icon": "🔫",
-            "id": "skin_gun",
+            "id": "gun",
             "isVip": false,
             "subtitle": "Các skin súng cực đẹp",
             "title": "SKIN SÚNG"
         },
         {
             "icon": "👨",
-            "id": "skin_char",
+            "id": "character",
             "isVip": false,
             "subtitle": "Trang phục nhân vật thời thượng",
             "title": "SKIN NHÂN VẬT"
