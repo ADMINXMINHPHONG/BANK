@@ -132,10 +132,10 @@
                     {
                         "downloadUrl": "https://drive.google.com/uc?export=download&id=1-mdF9HdslWmzxyH0oFSxWaz492DdCdhz",
                         "group": "M1887",
-                        "id": "ff_m1887_003b",
+                        "id": "ff_m1887_003",
                         "img1": "https://sf-static.upanhlaylink.com/img/image_202512263d3c9b6a75d34747d8511ac82d3bbe7d.jpg",
                         "img2": "https://sf-static.upanhlaylink.com/img/image_20251226c1982ecfda5e08769db9f09e7b1fe881.jpg",
-                        "name": "M1887 - Thế Giới Ngầm (NEW)"
+                        "name": "M1887 - Thế Giới Ngầm"
                     },
                     {
                         "downloadUrl": "https://drive.google.com/uc?export=download&id=1trER38kMnjC-UISpGIbgVX8KihslWyEP",
@@ -154,7 +154,7 @@
                         "name": "M1887 - Lữ Khách"
                     },
                     {
-                        "downloadUrl": "https://drive.google.com/uc?export=download&id=1W3L5e9YqRGByFDawPtMLIMUfBLHgJ6pA",
+                        "downloadUrl": "https://drive.google.com/uc?export=download&id=1W3L5e9YqRGByFDawPtMLIMUfBLHgJ6pAhttps://drive.google.com/uc?export=download&id=1W3L5e9YqRGByFDawPtMLIMUfBLHgJ6pA",
                         "group": "M1887",
                         "id": "ff_m1887_006",
                         "img1": "https://sf-static.upanhlaylink.com/img/image_202512263d3c9b6a75d34747d8511ac82d3bbe7d.jpg",
@@ -518,6 +518,20 @@
                         "id": "ff_wolfrahh_001",
                         "img": "https://sf-static.upanhlaylink.com/img/image_20251228535e92ac074f9d0e33505855721a2fa7.jpg",
                         "name": "WOLFRAHH - V001"
+                    },
+                    {
+                        "downloadUrl": "",
+                        "group": "SKIN",
+                        "id": "ff_SKIN_001",
+                        "img": "https://sf-static.upanhlaylink.com/img/image_20260102d068107637651009320d083371b11d70.jpg",
+                        "name": "KAIROS - V001"
+                    },
+                    {
+                        "downloadUrl": "",
+                        "group": "NAM",
+                        "id": "ff_skin_char_1770035618710",
+                        "img": "https://cdn.jsdelivr.net/gh/ShahGCreator/icon@main/PNG/101000009.png",
+                        "name": "ts"
                     }
                 ],
                 "nu": [
@@ -559,6 +573,13 @@
                         "id": "ff_pack_combo1",
                         "img": "https://raw.githubusercontent.com/doflamingohonghac-creator/hac/refs/heads/main/Gemini_Generated_Image_x9yke4x9yke4x9yk-small-small-small-small.png",
                         "name": "Pack VIP 1"
+                    },
+                    {
+                        "downloadUrl": "",
+                        "group": "PACK_MOD",
+                        "id": "ff_pack_mod_1770035597737",
+                        "img": "https://cdn.jsdelivr.net/gh/ShahGCreator/icon@main/PNG/101000009.png",
+                        "name": "1"
                     }
                 ]
             },
